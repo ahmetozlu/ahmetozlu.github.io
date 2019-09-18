@@ -1,4 +1,4 @@
-### Profile
+## Profile
 
 I have received the "Google Inside Look 2018 Award" from the Google. See [my medium post](https://medium.com/@ahmetozlu93/google-inside-look-2018-my-first-google-experience-7b1c8afa08e7) for the details!
 
@@ -16,9 +16,9 @@ My papers about Computer Vision & Deep Learning:
 
 **→** ***Case Works:*** Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
 
-### Former Clients' Reviews and Testimonials
+## Former Clients' Reviews and Testimonials
 
-### Portfolio
+## Portfolio
 
 Please see my Portfolio to check my skills and my experiences about machine learning, computer vision and image processing:
 - [GitHub (source codes of the projects)](https://github.com/ahmetozlu)
@@ -27,6 +27,6 @@ Please see my Portfolio to check my skills and my experiences about machine lear
 - [StackOverflow](https://stackoverflow.com/users/5252807/ozlu)
 - [LinkedIn](https://www.linkedin.com/in/ahmetozlu/)
 
-### Contact
+## Contact
 
-ahmetozlu93@gmail.com
+***ahmetozlu93@gmail.com***
