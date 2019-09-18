@@ -10,11 +10,11 @@ My papers about Computer Vision & Deep Learning:
 - [A multi-view face database from Turkish TV series](https://ieeexplore.ieee.org/document/8404767/)
 - [An intelligent dining scene experience](https://ieeexplore.ieee.org/document/8404549/)
 
-**→** ***Interest Areas:*** Computer Vision, Machine Learning, Deep Learning and Image Processing.
+**→** ***Interest areas:*** Computer Vision, Machine Learning, Deep Learning and Image Processing.
 
 **→** ***Technologies:*** TensorFlow, Keras API, dlib, OpenCV, scikit-learn, scikit-image, NumPy, SciPy, Pandas, python, OpenFace, OpenPose, Tesseract, RESTful API, Flask, Android, Gradle, Linux.
 
-**→** ***Case Works:*** Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
+**→** ***Case works:*** Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
 
 ## Former Clients' Reviews and Testimonials
 
