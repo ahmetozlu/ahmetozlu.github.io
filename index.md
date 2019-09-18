@@ -1,4 +1,4 @@
-## Profile
+### Profile
 
 I have received the "Google Inside Look 2018 Award" from the Google. See [my medium post](https://medium.com/@ahmetozlu93/google-inside-look-2018-my-first-google-experience-7b1c8afa08e7) for the details!
 
@@ -16,7 +16,7 @@ My papers about Computer Vision & Deep Learning:
 
 **→** Case works: Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
 
-## Former Clients' Reviews and Testimonials
+### Former Clients' Reviews and Testimonials
 
 ### Portfolio
 
