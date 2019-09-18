@@ -24,7 +24,7 @@ Please see my Portfolio to check my skills and my experiences about machine lear
 - [GitHub (source codes of the projects)](https://github.com/ahmetozlu)
 - [Medium (technical documentations of the projects)](https://medium.com/@ahmetozlu93)
 - [YouTube (demo videos of the projects)](https://www.youtube.com/channel/UC9EjJqqo2nAOMezcIn0BDQw/videos)
-- [Stackoverflow](https://stackoverflow.com/users/5252807/ozlu)
+- [StackOverflow](https://stackoverflow.com/users/5252807/ozlu)
 - [LinkedIn](https://www.linkedin.com/in/ahmetozlu/)
 
 ### Support or Contact
