@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 
-• • • • • I have received the "Google Inside Look 2019 Award" from the Google. • • • • •
+I have received the "Google Inside Look 2018 Award" from the Google. See [my medium post](https://medium.com/@ahmetozlu93/google-inside-look-2018-my-first-google-experience-7b1c8afa08e7) for the details!
 
-I have professional experience in Computer Vision, Deep Learning, Machine Learning, Image Processing and Object Oriented Design for more than 4 years!
+I have professional experience in Computer Vision, Deep Learning, Machine Learning, Image Processing and Object Oriented Design for more than 5 years!
 
-PLEASE SEE MY GITHUB TO CHECK MY SKILLS! : https://github.com/ahmetozlu
+PLEASE SEE [MY GITHUB](https://github.com/ahmetozlu) TO CHECK MY SKILLS!
 
 My papers about Computer Vision & Deep Learning:
-- https://ieeexplore.ieee.org/document/8404767/
-- https://ieeexplore.ieee.org/document/8404549/
+- [A multi-view face database from Turkish TV series](https://ieeexplore.ieee.org/document/8404767/)
+- [An intelligent dining scene experience](https://ieeexplore.ieee.org/document/8404549/)
 
 → Interest Areas: Computer Vision, Machine Learning, Deep Learning and Image Processing.
 
