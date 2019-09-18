@@ -1,5 +1,23 @@
 ## Welcome to GitHub Pages
 
+• • • • • I have received the "Google Inside Look 2019 Award" from the Google. • • • • •
+
+I have professional experience in Computer Vision, Deep Learning, Machine Learning, Image Processing and Object Oriented Design for more than 4 years!
+
+PLEASE SEE MY GITHUB TO CHECK MY SKILLS! : https://github.com/ahmetozlu
+
+My papers about Computer Vision & Deep Learning:
+- https://ieeexplore.ieee.org/document/8404767/
+- https://ieeexplore.ieee.org/document/8404549/
+
+→ Interest Areas: Computer Vision, Machine Learning, Deep Learning and Image Processing.
+
+→ Technologies: TensorFlow, Keras API, dlib, OpenCV, scikit-learn, scikit-image, NumPy, SciPy, Pandas, python, OpenFace, OpenPose, Tesseract, RESTful API, Flask, Android, Gradle, Linux.
+
+→ Case works: Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
+
+
+
 You can use the [editor on GitHub](https://github.com/ahmetozlu/ahmetozlu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
