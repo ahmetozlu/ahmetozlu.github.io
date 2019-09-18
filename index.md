@@ -14,7 +14,7 @@ My papers about Computer Vision & Deep Learning:
 
 **→** Technologies: TensorFlow, Keras API, dlib, OpenCV, scikit-learn, scikit-image, NumPy, SciPy, Pandas, python, OpenFace, OpenPose, Tesseract, RESTful API, Flask, Android, Gradle, Linux.
 
-**→** Case works: Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
+**→** Case Works: Face Recognition&Verification, Object Detection/Tracking/Counting, Image Analysis, Video Analysis, Designing&Training of CNNs, Feature Extractions and so on..
 
 ### Former Clients' Reviews and Testimonials
 
@@ -27,6 +27,6 @@ Please see my Portfolio to check my skills and my experiences about machine lear
 - [StackOverflow](https://stackoverflow.com/users/5252807/ozlu)
 - [LinkedIn](https://www.linkedin.com/in/ahmetozlu/)
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ahmetozlu93@gmail.com
